@@ -61,7 +61,7 @@ And in this last part we set the rootViewController as our ViewController, and s
 self.window.rootViewController = viewController;
 ```
 
-Now we are all setted up, run the project, and you should see a white background, or dark if you switch your simulation to dark mode (Command + Shift + A).
+Now we are all set up, run the project, and you should see a white background, or dark if you switch your simulation to dark mode (Command + Shift + A).
 
 ## Result
 
